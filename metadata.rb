@@ -4,7 +4,7 @@ maintainer_email "brandon.adams@me.com"
 license          "MIT"
 description      "Installs/Configures s3_file LWRP"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          "2.9.0"
+version          "2.8.7"
 
 source_url 'https://github.com/hamishf-bgl/s3_file' if respond_to(:source_url)
 issues_url 'https://github.com/hamishf-bgl/s3_file/issues' if respond_to(:issues_url)
